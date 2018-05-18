@@ -1,0 +1,14 @@
+{
+    "name": "jiny/hello",
+    "description": "composer package make test",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "hojinlee",
+            "email": "infohojin@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
