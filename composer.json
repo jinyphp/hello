@@ -10,10 +10,12 @@
         }
     ],
     "minimum-stability": "stable",
-    "require": {},
+    "require": {
+        
+    },
     "autoload": {
         "psr-4": {
-            "Jiny\\Hello\\": "src"
+            "Jiny\\Hello\\": "src/"
         }
     }
 }
